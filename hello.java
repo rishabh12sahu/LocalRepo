@@ -7,4 +7,9 @@ public class hello{
         System.out.println("hello");
     }
 
+    static void substract()
+    {
+        System.out.println();
+    }
+
 }
