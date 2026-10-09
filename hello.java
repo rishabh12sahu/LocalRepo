@@ -4,7 +4,7 @@ public class hello{
     }
     static void sum()
     {
-        System.out.println();
+        System.out.println("hello");
     }
 
 }
